@@ -1,5 +1,5 @@
 class User {
-  int id;
+  int id = 0;
   String name;
   int age;
   double height;
@@ -7,7 +7,7 @@ class User {
   User({required this.id, required this.name, required this.age, required this.height});
   Map toJson() => {
     return {
-        'id': this.id,
+        'id': id,
         'name': name,
         'age': age,
 	'height': height,
