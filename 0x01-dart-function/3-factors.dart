@@ -1,4 +1,4 @@
-int factor(int f) {
+int fact(int f) {
   if (f <= 0)
      return 0;
 
@@ -6,5 +6,5 @@ int factor(int f) {
      return 1;
 
   else
-     return f * factor(f - 1);
+     return f * fact(f - 1);
 }
