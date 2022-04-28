@@ -1,8 +1,6 @@
-import '2-main.dart';
-
 Future<void> getUser() async {
   try {
-    var data = await fetchUser();
+    final String data = await fetchUser();
     print(data);
   } catch (err) {
     print('error caught: $err');
