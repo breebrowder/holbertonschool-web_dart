@@ -1,6 +1,5 @@
-
 class Password {
-  String password = "";
+  String password;
 
   bool isValid() {
      return ((password.length >= 8) &&
