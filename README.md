@@ -5,7 +5,7 @@
 1. [Dart - Hello Dart](https://intranet.hbtn.io/projects/2831)
 2. [Dart - Function](https://intranet.hbtn.io/projects/2832)
 3. [Dart - Classes](https://intranet.hbtn.io/projects/2833)
-
+4. [Dart - Asynchronous](https://intranet.hbtn.io/projects/2834)
 
 ## About the Developer  💬
 
