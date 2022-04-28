@@ -1,4 +1,4 @@
-class User {
+ class User {
   String name;
   int age;
   double height;
