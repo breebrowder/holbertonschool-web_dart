@@ -8,6 +8,6 @@ generateQuote(id) async {
     var json = jsonDecode(res.body);
     return ("${json[id - 1]['author']} : ${json[id - 1]['quote']}");
   } catch (err) {
-    return('There is no quotes');
+    return('There are no quotes');
  }
 }
