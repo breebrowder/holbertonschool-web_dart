@@ -7,6 +7,17 @@
 3. [Dart - Classes](https://intranet.hbtn.io/projects/2833)
 4. [Dart - Asynchronous](https://intranet.hbtn.io/projects/2834)
 
+
+## [Documentation](https://dart.dev/get-dart)
+
+### What is Dart
+
+Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. It is an object-oriented, class-based, garbage-collected language with C-style syntax.
+
+### How to Run
+
+``` dart <filename>.dart ```
+
 ## About the Developer  💬
 
 ### Bree Browder
